@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New React Modal Component Is Out](https://medium.com/@iagor123/new-react-modal-eee6d40b991a?source=rss-2ab0a3842084------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
