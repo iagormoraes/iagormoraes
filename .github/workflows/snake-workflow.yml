@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  generate-snake:
+    name: Update this repo's snake contribution
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v2
