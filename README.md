@@ -1,4 +1,4 @@
-<h2 align="center">Expert Frontend Developer and your friend :)</h3>
+<h2 align="center">Hey 👋! My name is Iagor and I am Expert Frontend Developer and your friend :)</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iagormoraes&label=Profile%20views&color=0e75b6&style=flat" alt="iagormoraes" />
 </p>
