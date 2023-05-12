@@ -50,7 +50,7 @@
 <h3 align="left">⚙️ Frameworks</h3>
 <p align="left">
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="express" width="40" height="40" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
