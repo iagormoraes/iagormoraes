@@ -121,7 +121,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
     </a>
 </p>
-<h3 align="left">🙌 Support</h3>
+<h3 align="left">🙌 Support me</h3>
 <p>
   <a href="https://www.buymeacoffee.com/iagor123Z">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iagor123Z" />
