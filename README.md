@@ -68,10 +68,3 @@ I'm Iagor Moraes, a seasoned Full Stack Developer with a proven track record of 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-<h3 align="left">🙌 Support me</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/iagor123Z">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iagor123Z" />
-  </a>
-</p>
